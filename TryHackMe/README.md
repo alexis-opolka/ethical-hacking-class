@@ -15,5 +15,5 @@
 | WIN AD BASICS  | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: | https://tryhackme.com/room/winadbasics |
 | INTRODUCTION SECURITY ARCHITECTURE  | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: | :x: | https://tryhackme.com/room/introtosecurityarchitecture |
 | Common Attacks | :heavy_check_mark: | :x: | :x: | :x: | :x: | https://tryhackme.com/r/room/commonattacks |
-| Cryptography Intro | :heavy_check_mark: | :x: | :x: | :x: | :x: | https://tryhackme.com/room/cryptographyintro |
+| Cryptography Intro | :heavy_check_mark: | :x: | :x: | :x: | :x: | https://tryhackme.com/room/cryptographyfordummies |
 | Introduction to Cryptops | :heavy_check_mark: | :x: | :x: | :x: | :x: | https://tryhackme.com/room/introductiontocryptops |
