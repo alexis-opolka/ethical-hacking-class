@@ -2,7 +2,7 @@
 
 * For all RootMe challenges listed below, give an explanation of what you did and add at one screenshot
 
-| Module | L3 | IMT SR | IMT DL | M2 Infra | M2 Ingé |  URL |
+| Module | Licence Pro | IMT SR | IMT DL | M2 Infra | M2 Ingé |  URL |
 | ------ | :---: | :---: | :---: | :---: | :---: | ------------- |
 | App-Script => Bash - System 1  | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: | https://www.root-me.org/fr/Challenges/App-Script/Bash-System-1 |
 | App-Script => sudo - faiblesse de configuration | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: | https://www.root-me.org/fr/Challenges/App-Script/sudo-faiblesse-de-configuration
