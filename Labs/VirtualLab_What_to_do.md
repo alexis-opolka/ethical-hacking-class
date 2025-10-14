@@ -16,7 +16,7 @@
 
 ### List of labs ###
 
-| ID  | VM number  | Difficulty |  Licence |  IMT / CERI |  Targets |  Tags |  Link |
+| ID  | VM number  | Difficulty |  Licence Pro |  IMT / CERI |  Targets |  Tags |  Link |
 | :---: | :---: | :---: | :---: | :---: | ------------- | --- | --- |
 | 1  | 207  | Easy  | :heavy_check_mark:  | :heavy_check_mark:  |  find 8 vulnerabilities flags beginning by "FLAG{". <br> For each flag found, write on your report "FLAG_x :"  | NA  | https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/  |
 | 2  | 710  | Medium  | :x: | :heavy_check_mark:  | gain access, root  | Reconnaissance, exploit, privilege escalation  | https://www.vulnhub.com/entry/vulncms-1,710/  |
